@@ -1,4 +1,28 @@
 p {
-    background-color: #bf4163;
+    background-color: #fcbdc7;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.odd {
+    font-size: 22px;
+}
+
+.odd-3 {
+    font-size: 24px;
+}
+
+#Number2{
+    color: rgb(20, 7, 138);
+    font-size: 36px;
+
+}
+
+#Number4 {
+    background-color: hsl(159, 83%, 59%);
+    font-size: 24px;
+    font-weight: bold;
+
+
+}
+
+/* didn't think about adding the class for the identical font sizes to reduce the code I had written. Learning! */
